@@ -1,1 +1,2 @@
 Hello, this is chapter3
+Here I'm editing to make sure that I understood this well.
